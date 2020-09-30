@@ -3,7 +3,7 @@ Write a program which will find factors of given number and find whether the
 factor is even or odd.
 '''
 
-input_number = input("Enter a number: ")
+input_number = input("Enter a number that you want to check: ")
 
 try:
     number = int(input_number)
